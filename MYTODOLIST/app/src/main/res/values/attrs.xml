@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="state_choose">
+        <item>TODO</item>
+        <item>DONE</item>
+        <item>NONE</item>
+    </string-array>
+
+    <string-array name="priority_choose">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>无</item>
+    </string-array>
+
+    <string-array name="filter_choose">
+        <item>TODO</item>
+        <item>DONE</item>
+        <item>OVERDUE</item>
+        <item>Priority</item>
+        <item>Next 7 Days</item>
+    </string-array>
+    <declare-styleable name="SwitchButton">
+        <attr name="switchOpenImage" format="reference"/>
+        <attr name="switchCloseImage" format="reference"/>
+        <attr name="switchStatus">
+            <enum name="open" value="0"/>
+            <enum name="close" value="1"/>
+        </attr>
+    </declare-styleable>
+    <string-array name="time_choose">
+        <item>09:00</item>
+        <item>12:00</item>
+        <item>16:23</item>
+        <item>20:00</item>
+    </string-array>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="backgroundWhite">#fbfbfb</color>
+    <color name="backgroundGray">#f4f4f4</color>
+    <color name="pink">#eb6589</color>
+    <color name="darkPink">#d05f7d</color>
+    <color name="lightPink">#ccccff</color>
+    <color name="purple">#b95570</color>
+    <color name="red">#d71628</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="lightGray">#b7bebe</color>
+    <color name="darkGray">#4a4a4a</color>
+    <color name="textGray">#707274</color>
+    <color name="lightGreen">#d2f5bd</color>
+    <color name="ligthYellow">#ffffcc</color>
+    <color name="lightBlue">#ccffff</color>
+    <color name="md_blue_50">#E3F2FD</color>
+    <color name="md_blue_100">#BBDEFB</color>
+    <color name="md_blue_200">#90CAF9</color>
+    <color name="md_blue_300">#64B5F6</color>
+    <color name="md_pink_50">#FCE4EC</color>
+    <color name="md_pink_100">#F8BBD0</color>
+    <color name="md_pink_200">#F48FB1</color>
+    <color name="md_pink_300">#F06292</color>
+    <color name="backgroundLightGray">#cfcfcf</color>
+    <color name="darkYellow">#c07c00</color>
+
+</resources>

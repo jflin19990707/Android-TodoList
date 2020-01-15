@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:backgroundTint="#00000000">
+    <CheckBox
+        android:drawableLeft="@drawable/checkbox_tag"
+        android:paddingRight="50dp"
+        android:drawablePadding="20dp"
+        android:layout_marginTop="5dp"
+        android:text="标签内容"
+        android:textSize="15dp"
+        android:textColor="@drawable/radiobutton_text"
+        android:button="@null"
+        android:layoutDirection="rtl"
+        android:id="@+id/tag_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/rounded_edittext"
+        android:layout_marginLeft="7dp"
+        android:layout_marginRight="7dp"
+        />
+</LinearLayout>
